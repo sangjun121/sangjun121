@@ -8,7 +8,7 @@
 |[2023]        | **제 11회 K-해커톤 🏆**           | 주민투표 기반 게릴라 가드닝 서비스 ([소프트웨어교육혁신센터 이사장상](https://drive.google.com/file/d/13WG4F3IH1mdqHToAnbh5EB6S5h1vddG9/view)) | [City-Gardening-Server](Https://github.com/sangjun121/City-Gardening-Server.git)                                            |
 |[2023]        | **[EN# 23기](https://github.com/EnsharpSejong)**                    | 순수 Java와 C#을 활용한 객체지향 스터디                                                                                     | [EN-2023-Study](Https://github.com/Ensharp-Study/CHO-SANGJUN.git)                               |
 
-### Contribution
+### 🤝Contribution
 - spring-modulith
   - GH-1130 | Add debug log describing selected externalized events [#1135](https://github.com/spring-projects/spring-modulith/pull/1135)
     
