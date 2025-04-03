@@ -9,6 +9,6 @@
 |[2023]        | **[EN# 23기](https://github.com/EnsharpSejong)**                    | 순수 Java와 C#을 활용한 객체지향 스터디                                                                                     | [EN-2023-Study](Https://github.com/Ensharp-Study/CHO-SANGJUN.git)                               |
 
 ### 🤝Contribution
-- spring-modulith
+- spring-modulith [project](https://github.com/spring-projects/spring-modulith)
   - GH-1130 | Add debug log describing selected externalized events [#1135](https://github.com/spring-projects/spring-modulith/pull/1135)
     
