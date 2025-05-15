@@ -1,3 +1,24 @@
+### 🧑‍💻 Project
+
+| Year | 🧑‍💻 Activity | 🎯 Overview | 🎁 Repository |
+|------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| 2025 | **[SIPE 3rd](https://github.com/sipe-team)** | Studied Modular Monolithic architecture and practiced implementing a payments module using Spring Modulith ([Study log WIP](https://sangjunn.notion.site/162976a7f2238032b6ddd4b42ffe20f4?v=162976a7f2238130add3000c59067e25&pvs=4)) | [3-2_smart payments](https://github.com/sipe-team/3-2_smart_fintech.git) |
+| 2024 | **[SIPE 3rd](https://github.com/sipe-team)** | Performance testing and case-based optimization of Spring applications ([Study log](https://sangjunn.notion.site/12f976a7f223805c8395f9079cf16b36?v=12f976a7f22381a4805b000c6e05900e&pvs=4)) | [3-1_spurt](https://github.com/sipe-Team/3-1_spurt.git) |
+| 2024 | **RYC** | Club recruitment management solution for Sejong University ([Retrospective](http://sangjunn.notion.site)) | [ryc](https://github.com/Recruiting-Your-Club/api-Server-V1.git) |
+| 2023 | **[Microsoft Imagine Cup 2024]** | Generative fairytale service for children (Morpheus) | [EN-Morpheus-FE](https://github.com/sangjun121/EN-Morpheus-FE.git) |
+| 2023 | **11th K-Hackathon 🏆** | Guerrilla gardening service based on community voting ([Chairman’s Award from the Center for Software Education Innovation](https://drive.google.com/file/d/13WG4F3IH1mdqHToAnbh5EB6S5h1vddG9/view)) | [City-Gardening-Server](https://github.com/sangjun121/City-Gardening-Server.git) |
+| 2023 | **[EN# 23rd](https://github.com/EnsharpSejong)** | Object-oriented programming study using pure Java and C# | [EN-2023-Study](https://github.com/Ensharp-Study/CHO-SANGJUN.git) |
+
+### 🤝 Opensource Contribution
+
+- **spring-modulith** [(project)](https://github.com/spring-projects/spring-modulith)  
+  - GH-1130 | Add debug log describing selected externalized events [#1135](https://github.com/spring-projects/spring-modulith/pull/1135)
+
+
+<details>
+<summary>Korean Version 🇰🇷</summary>
+<div markdown="1">
+  
 ### 🧑‍💻Project
 | 연도                         | 🧑‍💻활동                         | 🎯개요                                                                                                               | 🎁레포지토리                                                                                           |
 |---------------------------------|--------------------------------|------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
@@ -12,3 +33,5 @@
 - spring-modulith [(project)](https://github.com/spring-projects/spring-modulith)
   - GH-1130 | Add debug log describing selected externalized events [#1135](https://github.com/spring-projects/spring-modulith/pull/1135)
     
+</div>
+</details>
