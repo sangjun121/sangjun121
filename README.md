@@ -1,3 +1,6 @@
+### 📃 Blog
+[Tech Blog](https://sangjun121.github.io/)
+
 ### 🧑‍💻 Project
 
 | Year | 🧑‍💻 Activity | 🎯 Overview | 🎁 Repository |
