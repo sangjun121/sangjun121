@@ -11,7 +11,7 @@
 
 ### 🤝 Opensource Contribution
 
-- **spring-modulith** [(project)](https://github.com/spring-projects/spring-modulith): GH-1130 | Add debug log describing selected externalized events [#1135](https://github.com/spring-projects/spring-modulith/pull/1135)
+- **spring-modulith** [(project)](https://github.com/spring-projects/spring-modulith): GH-1130 | Add debug log describing selected externalized events [PR #1135](https://github.com/spring-projects/spring-modulith/pull/1135)
 
 <details>
 <summary>Korean Version 🇰🇷</summary>
@@ -26,7 +26,7 @@
 
 ### 🤝오픈소스 기여
 - spring-modulith [(project)](https://github.com/spring-projects/spring-modulith)
-  - GH-1130 | Add debug log describing selected externalized events [#1135](https://github.com/spring-projects/spring-modulith/pull/1135)
+  - GH-1130 | Add debug log describing selected externalized events [PR #1135](https://github.com/spring-projects/spring-modulith/pull/1135)
     
 </div>
 </details>
