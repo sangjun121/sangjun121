@@ -1,5 +1,5 @@
 ### 📃 Blog
-[조상준의 Tech Blog](https://sangjun121.github.io/)
+[조상준의 Tech Blog](junsangcho.tistory.com)
 
 ### 🧑‍💻 Project
 
