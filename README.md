@@ -1,3 +1,6 @@
+### Resume
+[Resume 26.04](https://www.notion.so/sangjunn/34a976a7f2238088900cef2cd4b55d87?source=copy_link)
+
 ### 📃 Blog
 [조상준의 Tech Blog](https://junsangcho.tistory.com)
 
