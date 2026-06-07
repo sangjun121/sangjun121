@@ -4,6 +4,7 @@
 
 ### 📃 Blog
 [조상준의 Tech Blog](https://junsangcho.tistory.com)
+[샤를 위키 - 개발기록](https://charles-wiki.vercel.app/)
 
 ### 🧑‍💻프로젝트
 | 연도                         | 🧑‍💻활동                         | 🎯개요                                                                                                               | 🎁레포지토리                                                                                           |
